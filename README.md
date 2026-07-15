@@ -1,27 +1,32 @@
-# 👋 Welcome to My GitHub
+# Hi, I'm Ning Shijie
 
-Hi, I'm **Ning Shijie**
-Software Developer | AI Systems | Computer Vision
+Founder of **[NING STUDIO](https://github.com/ning-studio)** · AI × Graphics × Interactive Technology
 
----
-
-## 🛠 Tech Stack
-
-Python | C++ | Unreal Engine | Three.js | Docker
+I build intelligent systems and immersive experiences — spanning **3D reconstruction**, **digital twins**, **real-time graphics**, and **AI agent systems**.
 
 ---
 
-## 🚀 About Me
+## Focus
 
-* 🏗 I enjoy building **AI agent systems** and exploring interesting technology projects
-* 🌏 Based in Singapore
-
----
-
-## 📫 Contact
-
-* Email: [739997171@qq.com](mailto:739997171@qq.com)
+- **Spatial AI & 3D** — satellite / medical reconstruction, Gaussian Splatting, digital twin pipelines
+- **Real-time experiences** — Unreal Engine 5, interactive visualization, large-screen command systems
+- **AI systems** — agents, tooling, and workflows that connect research to production
 
 ---
 
-⭐ Thanks for visiting my GitHub. Feel free to connect and collaborate!
+## Currently
+
+- Building and shipping work under **NING STUDIO**
+- Open-sourcing selected tools, demos, and engineering kits
+
+---
+
+## Links
+
+- Studio: [github.com/ning-studio](https://github.com/ning-studio)
+- Website: [https://ning-studio.vercel.app/](https://ning-studio.vercel.app)
+- Email: [739997171@qq.com](mailto:739997171@qq.com)
+
+---
+
+Thanks for stopping by — happy to connect on collaboration, research, or open-source ideas.
