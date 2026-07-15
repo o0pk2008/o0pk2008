@@ -25,7 +25,7 @@ I build intelligent systems and immersive experiences — spanning **3D reconstr
 
 - Studio: [github.com/ning-studio](https://github.com/ning-studio)
 - Website: [https://ning-studio.vercel.app/](https://ning-studio.vercel.app)
-- Email: [739997171@qq.com](mailto:739997171@qq.com)
+- Email: [ning-studio@foxmail.com](mailto:ning-studio@foxmail.com)
 
 ---
 
